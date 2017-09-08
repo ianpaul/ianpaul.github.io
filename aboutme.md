@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is Ian Paul?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Ian Paul, an independent technology writer based in Israel. I write daily for PCWorld and TechHive, and my work has also appeared a variety of places online including ABC News, the Huffington Post, the IDG Network, MSNBC, Reuters, San Francisco Chronicle and The Washington Post.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+If you want to get in touch you can find me on Twitter as (@ianpaul).
 
-What else do you need?
+You can also email me at [my first name] @ [the name of this site] (GPG Key, or Keybase.io).
 
-### my history
+Check out my latest work on PCWorld and TechHiveI'm Ian Paul, an independent technology writer based in Israel. I write daily for PCWorld and TechHive, and my work has also appeared a variety of places online including ABC News, the Huffington Post, the IDG Network, MSNBC, Reuters, San Francisco Chronicle and The Washington Post.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you want to get in touch you can find me on Twitter as ([@ianpaul](https://twitter.com/ianpaul)).
+
+You can also email me at [my first name] @ [the name of this site] ([GPG Key](http://ianpaul.net/files/gpg.txt), or [Keybase.io](https://keybase.io/ianpaul)).
+
+Check out my latest work on [PCWorld](https://www.pcworld.com/author/Ian-Paul/) and [TechHive](http://www.techhive.com/author/Ian-Paul/)

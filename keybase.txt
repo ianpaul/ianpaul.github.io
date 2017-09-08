@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/ianpaul
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ianpaul.net
+  * I am ianpaul (https://keybase.io/ianpaul) on keybase.
+  * I have a public key with fingerprint 3697 81A7 6287 3CF6 B6EB  B09D C642 ECB8 B56C 50BD
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "369781a762873cf6b6ebb09dc642ecb8b56c50bd",
+            "host": "keybase.io",
+            "key_id": "c642ecb8b56c50bd",
+            "uid": "4361aaf14d6faa3b78089ac55c1d7800",
+            "username": "ianpaul"
+        },
+        "revoke": {
+            "sig_ids": [
+                "689341860189f11a99feb16566dbf6f8893970ccfe74cc9a9170e9d66b16d85f0f"
+            ]
+        },
+        "service": {
+            "hostname": "ianpaul.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1410590009,
+    "expire_in": 157680000,
+    "prev": "bea671219081a4698c4c497fdc4878f55fe45ea1b9fb79cc3dfa22d6ba22f486",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (MingW32)
+
+owFtUltIVEEYXu2qYRRFUHShgQhMZGb3nDlnFgm7kC+ZVhsYJcvMnBk9uZ2znj1u
+ihX1UlRIN4yi6H7Rgughs4ciiEgyIipzqaSCWMr0ocCICrU5Ug9BL3P5/+//vu//
+Zw4VjAvl5jxcPni7I1F5N+dxPwvFZmSrmwFzrSYQbQZ1YmyTtlMjvKRnOz6Igggm
+homogcOmEeESMywYg8TiWAsLzkymY65DZoEiUOumggpFw2hKFNuuiqlL3LZU9D/4
+hrGEFsGIUok0C0tKI8wwoUko13WOLHWGATAlPIduFQptUydJGxJgRxHwRNqtE4Hj
+lF2jRFIguglgk0Q0ZGKITCIRooRIwRDWMbaYxNJUaWJAzqUwNM4JJciAglgYK5Bl
+6hJKUK24lWDa5mPkQVf/ihc7wleukp7ru9xNqESt7yejgSe/KRkAtwkW/0MRZ7Zj
+qYmqgrTwUrbrgChSSO7bASfSENQJhJAUAdGYtD0RtwOEbmDVO4SBjEgrSiYoNlAY
+EaheQ8PE5BrXiCEtrpmGKXVdCk0XFDEimUE4j1iShsMWZmqVmolB0FS94ypupHzS
+GhAtCAbnUL/BE2BH/r6cueNDObmhiRNyg28Rys+b9vev5FdOGom0fUldeTJ1y7dF
+oLSjx746c2lfy4Odev1QaUXr9Ne39O7kzJtvM1XJhfFlXwcW9704dHF+YUu8d1CE
+fH7+wQnQCmID5Sser8xuLJzxak/btQlHrLX31n0o6ymYHU4vutHcfXDvsVhVaUX1
+z2E4+ciV5593tZwJ5X2ct708wzszuy+1fqvt939FLpy9PlpW8evcDzD63NxAPlU+
+evn0WdfxgZOzyguzl/YNl+Qtby97fTrzqfVuY9flgWzByLr6WFHsaFofOty0KuV9
+f/eq8/yUzY3Z+YmJS97YyyaVdBxAnQ1vj57pndP9/v56BxZ3Nd1ZWrp6ZP/NTPua
+RO2CenzyVNnUA78B
+=dmLj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ianpaul
+
+==================================================================

@@ -4,7 +4,7 @@ title: About me
 subtitle: Who is Ian Paul?
 ---
 
-I'm an independent technology writer based in Israel. I regularly contribute to PCWorld as an anti-virus and VPN critic, deal hunter, and whatever else catches my interest. Prior to my role as a freelance critic and feature contributor, I spent nearly a decade writing news articles for PCWorld.
+I'm a writer based in Israel. I regularly contribute to PCWorld as an anti-virus and VPN critic, deal hunter, and whatever else catches my interest. Prior to my role as a freelance critic and feature contributor, I spent nearly a decade covering the news for PCWorld.
 
 My work has  appeared a variety of places online including ABC News, Greenbot, [The Huffington Post](http://www.huffingtonpost.com/author/ian-paul), [Lifewire.com](https://www.lifewire.com/ian-paul-3571845), Macworld, MSNBC, Reuters, TechHive, [Yahoo Tech](https://finance.yahoo.com/news/the-21st-century-is-coming-to-1318404005756982.html), and The Washington Post.
 

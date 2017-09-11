@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ianpaul
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ianpaul.net
+  * I am ianpaul (https://keybase.io/ianpaul) on keybase.
+  * I have a public key ASAgyAsijjm6hpnawKntk_o4QmQNfToxExdy47OtYJ0kRwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b30880fe086352616ee5c297e59f1b0985daa8243ef92ab8d3863c9bed1fd9420a",
+      "host": "keybase.io",
+      "kid": "012020c80b228e39ba8699dac0a9ed93fa3842640d7d3a31131772e3b3ad609d24470a",
+      "uid": "4361aaf14d6faa3b78089ac55c1d7800",
+      "username": "ianpaul"
+    },
+    "merkle_root": {
+      "ctime": 1505137321,
+      "hash": "51ea01833e3ee5c3fc480653c698b40035f124d368bc33eaedca78f062b3308cfc12868a57c9876399482dfd337203ea644959bf8e1618d2270ee9c17569ecb7",
+      "hash_meta": "337e6bb01e0412c4b229f952a808dfe211bc9d16acad13b7634b254325b1eb2c",
+      "seqno": 1379966
+    },
+    "service": {
+      "hostname": "ianpaul.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.29"
+  },
+  "ctime": 1505137355,
+  "expire_in": 504576000,
+  "prev": "de0f7f32d67966dd3a2a15e637258825bfbadf747ba0db4bb495f6be047f1ee1",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIMgLIo45uoaZ2sCp7ZP6OEJkDX06MRMXcuOzrWCdJEcKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjMwODgwZmUwODYzNTI2MTZlZTVjMjk3ZTU5ZjFiMDk4NWRhYTgyNDNlZjkyYWI4ZDM4NjNjOWJlZDFmZDk0MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjBjODBiMjI4ZTM5YmE4Njk5ZGFjMGE5ZWQ5M2ZhMzg0MjY0MGQ3ZDNhMzExMzE3NzJlM2IzYWQ2MDlkMjQ0NzBhIiwidWlkIjoiNDM2MWFhZjE0ZDZmYWEzYjc4MDg5YWM1NWMxZDc4MDAiLCJ1c2VybmFtZSI6ImlhbnBhdWwifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDUxMzczMjEsImhhc2giOiI1MWVhMDE4MzNlM2VlNWMzZmM0ODA2NTNjNjk4YjQwMDM1ZjEyNGQzNjhiYzMzZWFlZGNhNzhmMDYyYjMzMDhjZmMxMjg2OGE1N2M5ODc2Mzk5NDgyZGZkMzM3MjAzZWE2NDQ5NTliZjhlMTYxOGQyMjcwZWU5YzE3NTY5ZWNiNyIsImhhc2hfbWV0YSI6IjMzN2U2YmIwMWUwNDEyYzRiMjI5Zjk1MmE4MDhkZmUyMTFiYzlkMTZhY2FkMTNiNzYzNGIyNTQzMjViMWViMmMiLCJzZXFubyI6MTM3OTk2Nn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJpYW5wYXVsLm5ldCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjkifSwiY3RpbWUiOjE1MDUxMzczNTUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZGUwZjdmMzJkNjc5NjZkZDNhMmExNWU2MzcyNTg4MjViZmJhZGY3NDdiYTBkYjRiYjQ5NWY2YmUwNDdmMWVlMSIsInNlcW5vIjozNywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECbwBxl6QERxek3dd4lQSMak9FTLdF8X1bCVZSwvOBMCV3iUebUWn+2FlQlgEtv9sdPIQIkHIVgXoH5rInw8PgLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgARYWhppwut+ArGXc09mDLW7EF3QAaDCttCKmuFvUhlKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ianpaul
+
+==================================================================

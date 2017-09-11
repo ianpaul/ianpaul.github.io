@@ -10,6 +10,6 @@ My work has  appeared a variety of places online including ABC News, Greenbot, [
 
 If you want to get in touch you can find me on Twitter as ([@ianpaul](http://twitter.com/ianpaul)).
 
-You can also email me at [my first name] @ [the name of this site]. If you are the encryption type you can grab my ([GPG Key](http://ianpaul.net/files/gpg.txt) here, or get everything you need on [Keybase.io](https://keybase.io/ianpaul)).
+You can also email me at [my first name] @ [the name of this site]. If you are the encryption type you can grab my [GPG Key](http://ianpaul.net/files/gpg.txt) here, or get everything you need on [Keybase.io](https://keybase.io/ianpaul).
 
 Check out my latest work on [PCWorld](https://www.pcworld.com/author/Ian-Paul/).

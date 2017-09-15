@@ -23,6 +23,10 @@ description: Ian Paul's online base of operations.
 
 # List of links in the navigation bar
 navbar-links:
+  Vignettes: 
+    - What are vignettes?: "http://ianpaul.net/what-are-vignettes/"
+    - Waydon: "http://ianpaul.net/waydon"
+    - The Paint Can: "http://ianpaul.net/the-paint-can/"
   About Me: "aboutme"
   Archive: "archive"
 

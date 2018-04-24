@@ -12,7 +12,7 @@ Beyond technology, I hold a Master of Music from Indiana University and have a d
 
 Please note that for ethical reasons I cannot accept short-term writing assignments from consumer technology companies. If you are looking for a long term exclusive relationship, however, I am open to discussions.
 
-##My Experience
+## My Experience
 
 Writing has always been a big part of my life, but the basis of my career began in public relations in 2006. During this time I honed my skills for writing clear, precise, and factual copy that always presented my clients in their best light. 
 
@@ -24,7 +24,7 @@ Between August 2015 and February 2016 I also contributed to Yahoo Tech before th
 
 In 2009, I was invited to contribute to the [Huffington Post](https://www.huffingtonpost.com/entry/new-ftc-blogging-regulati_b_311851.html). Around that same time I also worked on a contract basis for Ebsco Publishing. I wrote numerous research-intensive articles for the company's online encyclopedia targeted at American high schools and colleges. Topics for the Ebsco encyclopedia included political issues such as NAFTA and Medicare, country profiles, biographies of world leaders, as well as opinion pieces for rhetorical study.
 
-##Clips
+## Clips
 
 Below is a selection of my favorite work in recent years.
 

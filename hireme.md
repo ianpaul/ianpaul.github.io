@@ -4,13 +4,15 @@ title: Hire me
 subtitle: Freelance writer for hire
 ---
 
-I am available as a writer for hire on an hourly basis or for fixed-term projects. If you need help creating engaging copy that really pops for a website, blog, brochure, or report I can help. I am a writer with nearly fifteen years of experience in all manner of formats including press releases, press kits, pitch letters, professional biographies, blog posts, articles, reviews, and tutorials.
+I am available as a writer for hire on an hourly basis or for fixed-term projects. If you need help creating engaging copy for a website, blog, brochure, or report I can help. I am a writer with nearly fifteen years of experience in all manner of formats including press releases, press kits, pitch letters, professional biographies, blog posts, articles, reviews, and tutorials.
 
 For the past ten years I've written almost exclusively about technology for PCWorld. My work includes daily news stories, news analysis, company profiles, how-to tutorials, software reviews, and deal alerts. I cover consumer technology products and how to use them, but I also have working knowledge of HTML, CSS, Git, GitHub, Markdown, and a general  understanding of JavaScript, Python, and Bash scripting. 
 
 Beyond technology, I hold a Master of Music from Indiana University and have a deep understanding of classical music, and the industry around it. 
 
 Please note that for ethical reasons I cannot accept short-term writing assignments from consumer technology companies. If you are looking for a long term exclusive relationship, however, I am open to discussions.
+
+I am based in Israel (GMT +3).
 
 ## My Experience
 

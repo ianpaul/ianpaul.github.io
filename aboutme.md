@@ -8,7 +8,7 @@ I am a freelance writer based in Israel. I regularly contribute to PCWorld as an
 
 My work has appeared online at ABC News, Greenbot, [The Huffington Post](http://www.huffingtonpost.com/author/ian-paul), [Lifewire.com](https://www.lifewire.com/ian-paul-3571845), Macworld, MSNBC, Reuters, TechHive, [Yahoo Tech](https://finance.yahoo.com/news/the-21st-century-is-coming-to-1318404005756982.html), and The Washington Post.
 
-Prior to my career as a freelance writer, I worked as a press representative for Kirshbaum, Demler & Associates--now [Kirshbaum Associates Inc](http://www.kirshbaumassociates.com/). During my time there I helped represent some of the biggest names in classical music including the Emerson String Quartet, the Israel Philharmonic Orchestra, Sir András Schiff, conductor Robert Spano, and Pinchas Zukerman.
+Prior to my career as a freelance writer, I worked as a press representative for Kirshbaum, Demler & Associates--now [Kirshbaum Associates Inc](http://www.kirshbaumassociates.com/). During my time there I helped represent some of the biggest names in classical music including the Emerson String Quartet, the Israel Philharmonic Orchestra, Sir András Schiff, Robert Spano, and Pinchas Zukerman.
 
 If you want to get in touch you can find me on Twitter as [@ianpaul](http://twitter.com/ianpaul).
 

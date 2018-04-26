@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Who is Ian Paul?
+title: Ian Paul
+subtitle: Freelance Writer
 ---
 
 I am a freelance writer based in Israel. I regularly contribute to PCWorld as an anti-virus and VPN critic, deal hunter, and whatever else catches my interest. Prior to my role as a freelance critic and feature contributor, I spent nearly a decade covering the latest technology news for PCWorld.

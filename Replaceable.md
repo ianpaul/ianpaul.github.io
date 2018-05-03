@@ -11,7 +11,7 @@ His father would have none of it. His plans were well thought out except for one
 
 "What are you talking about, Dad? People have been fighting fires for years. Just because your job was taken over by robots doesn't mean mine will be."
 
-Jeremy pushed up his glasses. An ill-fitting pair that was always falling to his nose, but they were all he could afford. He'd planned on having Lasik surgery years ago, but the money was never there. 
+Jeremy pushed up his glasses. An ill-fitting pair that was always falling to the end of his nose. He couldn't afford replacements. He'd planned on having Lasik surgery years ago, but the money was never there. 
 
 He sighed and stared across at his son, "I know you're angry, but let's try to stick to the facts here. I do have a job, and I wasn't entirely replaced by robots. They still need journalists to go out there and find stories. People won't talk to robots after all. They only do the writing. Anyway, that's not the point. Look, I interviewed the head research scientist at Ohio Dynamics just last month. He told me they expect to have AI fireman ready to go within five years."
 

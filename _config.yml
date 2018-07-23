@@ -58,7 +58,9 @@ footer-col: "black"
 author:
   name: Ian Paul
   facebook: ian.paul  # eg. daattali
+  diaspora: ianpaul   # eg. daatali
   github: ianpaul    # eg. daattali
+  mastodon: @ianPaul #eg. daattali
   twitter: ianpaul   # eg. daattali
   reddit: metaflops    # eg. daattali
   twitch: m3tafl0ps    # eg. daattali
@@ -72,6 +74,7 @@ footer-links-active:
   twitter: true
   google-plus: false
   github: true
+  mastodon: true
   reddit: false
   linkedin: false
   xing: false

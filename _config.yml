@@ -67,6 +67,7 @@ author:
 footer-links-active:
   rss: true
   facebook: true
+  diaspora: true
   email: false
   twitter: true
   google-plus: false

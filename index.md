@@ -18,6 +18,6 @@ Prior to my career as a freelance writer, I worked as a press representative for
 
 If you want to get in touch you can find me on Twitter as [@ianpaul](http://twitter.com/ianpaul).
 
-You can also email me at [ian@ianpaul.net](mailto:ian@ianpaul.net). If you are the encryption type you can grab my [GPG Key](http://ianpaul.net/files/gpg.txt), or get everything you need on [Keybase.io](https://keybase.io/ianpaul).
+You can also email me at [ian@ianpaul.net](mailto:ian@ianpaul.net). If you are the encryption type you can grab my [GPG Key](http://ianpaul.net/gpg.txt), or get everything you need on [Keybase.io](https://keybase.io/ianpaul).
 
 Check out my latest work on [PCWorld](https://www.pcworld.com/author/Ian-Paul/).

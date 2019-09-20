@@ -12,7 +12,7 @@ bigimg:
 
 I am available as a writer for hire on an hourly basis or for fixed-term projects. Email me at [ian@ianpaul.net](mailto:ian@ianpaul.net?Subject=writer%20for%20hire). I am based in Israel (GMT +3).
 
-If you need help creating engaging copy for a website, blog, brochure, or report I can help. I am also available to work as a ghost writer on books, articles, speeches, and columns. I am a writer with nearly fifteen years of experience in all manner of formats including press releases, press kits, pitch letters, professional biographies, blog posts, news articles, features, reviews, and tutorials.
+If you need help creating engaging copy for a website, blog, brochure, whitepaper, or report I can help. I am also available to work as a ghost writer on books, articles, speeches, and columns. I am a writer with nearly fifteen years of experience in all manner of formats including press releases, press kits, pitch letters, professional biographies, blog posts, news articles, features, reviews, and tutorials.
 
 For the past ten years I've written almost exclusively about technology for PCWorld covering consumer technology products and how to use them. I also have working knowledge of HTML, CSS, Git, GitHub, Markdown, and a general  understanding of JavaScript, Python, and Bash scripting. 
 
@@ -24,7 +24,7 @@ Please note that for ethical reasons I cannot accept short-term writing assignme
 
 Writing has always been a big part of my life, but the basis of my career began in public relations in 2006. During this time I honed my skills for writing clear, precise, and factual copy that always presented my clients in their best light. 
 
-Writing became a full-time profession a few short years later with my now decade-long tenure as a freelance journalist with PCWorld, and its sister sites TechHive, Macworld, and Greenbot. I've covered hundreds of stories for these sites concerning the major technology companies including Amazon, Facebook, Google, and Microsoft. I've done news analysis and reporting on tech legislation, and I've reported on local Israeli companies such as Waze, Soluto, and Zuta Labs.
+Writing became a full-time profession a few short years later with my now decade-long tenure as a freelance journalist with PCWorld, and its sister sites TechHive, Macworld, and Greenbot. I've covered hundreds of stories for these sites concerning the major technology companies including Amazon, Facebook, Google, and Microsoft. I've done news analysis and reporting on tech legislation, and I've reported on local Israeli companies such as Waze, Soluto, and Zuta Labs. I am also a regular contributor to How-To Geek and Tech.co.
 
 Throughout 2016, I was the resident Windows expert for About.com, which later became Lifewire.com. I wrote numerous tutorials for the site to help novice Windows users take full advantage of their PCs.
 
@@ -44,6 +44,6 @@ Below is a selection of my favorite work in recent years.
 
 + [**What the Kaspersky antivirus hack really means**](https://www.pcworld.com/article/3235484/computers/what-the-kaspersky-antivirus-hack-really-means.html), PCWorld, November 2017 
 
-To see my most recent work visit [my author page on PCWorld](https://www.pcworld.com/author/Ian-Paul/).
+To see my most recent work visit my author page on [PCWorld](https://www.pcworld.com/author/Ian-Paul/), [How-To Geek](https://www.howtogeek.com/author/ianpaul/), and [Tech.co](https://tech.co/author/ian-paul).
 
 If you'd like to get in touch about a writing project email me at [ian@ianpaul.net](mailto:ian@ianpaul.net?Subject=writer%20for%20hire).

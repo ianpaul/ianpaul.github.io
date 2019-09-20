@@ -68,15 +68,15 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: true
-  diaspora: true
+  facebook: false
+  diaspora: false
   email: false
   twitter: true
   google-plus: false
   github: true
-  mastodon: true
-  reddit: false
-  linkedin: false
+  mastodon: false
+  reddit: true
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -94,7 +94,7 @@ share-links-active:
   facebook: true
   github: true
   google: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

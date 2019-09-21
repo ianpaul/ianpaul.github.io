@@ -10,15 +10,15 @@ bigimg:
   - "../img/big-imgs/yomkippur.jpeg" : "Yom Kippur in Tel Aviv, Israel (2009)"
 ---
 
-I am available as a writer for hire on an hourly basis or for fixed-term projects. Email me at [ian@ianpaul.net](mailto:ian@ianpaul.net?Subject=writer%20for%20hire). I am based in Israel (GMT +3).
+I am available as a writer for hire on an hourly basis or for fixed-term projects. Email me at [ian@ianpaul.net](mailto:ian@ianpaul.net?Subject=writer%20for%20hire). I am based in Israel.
 
 If you need help creating engaging copy for a website, blog, brochure, whitepaper, or report I can help. I am also available to work as a ghost writer on books, articles, speeches, and columns. I am a writer with nearly fifteen years of experience in all manner of formats including press releases, press kits, pitch letters, professional biographies, blog posts, news articles, features, reviews, and tutorials.
 
 For the past ten years I've written almost exclusively about technology for PCWorld covering consumer technology products and how to use them. I also have working knowledge of HTML, CSS, Git, GitHub, Markdown, and a general  understanding of JavaScript, Python, and Bash scripting. 
 
-Beyond technology, I hold a Master of Music from Indiana University and have a deep understanding of classical music, and the industry around it. 
+In addition to covering technology, I hold a Master of Music from Indiana University and have a deep understanding of classical music, and the industry around it. 
 
-Please note that for ethical reasons I cannot accept short-term writing assignments from consumer technology companies. If you are looking for a long term exclusive relationship, however, I am open to discussions.
+Please note that I cannot accept short-term writing assignments from consumer technology companies. If you are looking for a long term exclusive relationship, however, I am open to discussions.
 
 ## My Experience
 

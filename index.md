@@ -2,12 +2,12 @@
 layout: page
 title: Ian Paul
 subtitle: Freelance Writer
-bigimg:
+#bigimg:
    
-  - "../img/big-imgs/dog.jpeg" : "Ramat HaSharon, Israel (2009)"
-  - "../img/big-imgs/petra.jpeg" : "Petra, Jordan (2011)"
-  - "../img/big-imgs/sinai.jpeg" : "The Sinai Peninsula, Egypt (2009)"
-  - "../img/big-imgs/yomkippur.jpeg" : "Yom Kippur in Tel Aviv, Israel (2009)"
+#  - "../img/big-imgs/dog.jpeg" : "Ramat HaSharon, Israel (2009)"
+#  - "../img/big-imgs/petra.jpeg" : "Petra, Jordan (2011)"
+#  - "../img/big-imgs/sinai.jpeg" : "The Sinai Peninsula, Egypt (2009)"
+#  - "../img/big-imgs/yomkippur.jpeg" : "Yom Kippur in Tel Aviv, Israel (2009)"
 ---
 
 I'm a freelance writer based in Israel. I regularly contribute to PCWorld as an anti-virus and VPN critic, deal hunter, and whatever else catches my interest. Prior to my role as a freelance critic and feature contributor, I spent nearly a decade covering the latest technology news for PCWorld.

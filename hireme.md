@@ -2,12 +2,12 @@
 layout: page
 title: Hire me
 subtitle: Freelance writer for hire
-bigimg:
+#bigimg:
    
-  - "../img/big-imgs/dog.jpeg" : "Ramat HaSharon, Israel (2009)"
-  - "../img/big-imgs/petra.jpeg" : "Petra, Jordan (2011)"
-  - "../img/big-imgs/sinai.jpeg" : "The Sinai Peninsula, Egypt (2009)"
-  - "../img/big-imgs/yomkippur.jpeg" : "Yom Kippur in Tel Aviv, Israel (2009)"
+#  - "../img/big-imgs/dog.jpeg" : "Ramat HaSharon, Israel (2009)"
+#  - "../img/big-imgs/petra.jpeg" : "Petra, Jordan (2011)"
+#  - "../img/big-imgs/sinai.jpeg" : "The Sinai Peninsula, Egypt (2009)"
+#  - "../img/big-imgs/yomkippur.jpeg" : "Yom Kippur in Tel Aviv, Israel (2009)"
 ---
 
 I'm available as a writer for hire. To discuss a project email me at [ian@ianpaul.net](mailto:ian@ianpaul.net?Subject=writer%20for%20hire).

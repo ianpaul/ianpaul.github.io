@@ -24,11 +24,11 @@ description: Ian Paul's online base of operations.
 # List of links in the navigation bar
 navbar-links:
   Hire Me: "hireme"
-  Vignettes: 
-    - What are vignettes?: "http://ianpaul.net/what-are-vignettes/"
-    - Waydon: "http://ianpaul.net/waydon"
-    - The Paint Can: "http://ianpaul.net/the-paint-can/"
-    - Replaceable: "http://ianpaul.net/Replaceable/"
+  #Vignettes: 
+   # - What are vignettes?: "http://ianpaul.net/what-are-vignettes/"
+    #- Waydon: "http://ianpaul.net/waydon"
+    #- The Paint Can: "http://ianpaul.net/the-paint-can/"
+    #- Replaceable: "http://ianpaul.net/Replaceable/"
   Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)

@@ -64,6 +64,7 @@ author:
   twitter: ianpaul   # eg. daattali
   reddit: metaflops    # eg. daattali
   twitch: m3tafl0ps    # eg. daattali
+  linkedin: ianpaul
  
 # Select which links to show in the footer
 footer-links-active:
@@ -75,7 +76,7 @@ footer-links-active:
   google-plus: false
   github: true
   mastodon: false
-  reddit: true
+  reddit: false
   linkedin: true
   xing: false
   stackoverflow: false

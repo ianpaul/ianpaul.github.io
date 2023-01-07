@@ -16,4 +16,4 @@ My work has appeared online at ABC News, Greenbot, [The Huffington Post](http://
 
 If you want to get in touch you can find me on Twitter as [@ianpaul](http://twitter.com/ianpaul). You can also email me at [ian@ianpaul.net](mailto:ian@ianpaul.net). If you're the encryption type you can grab my [GPG Key](http://ianpaul.net/gpg.txt), or get everything you need on [Keybase.io](https://keybase.io/ianpaul).
 
-You can check out my archives at [PCWorld](https://www.pcworld.com/author/Ian-Paul/) and [How-To Geek](https://www.howtogeek.com/author/ianpaul/). If you can't get enough networking and network security in my life, you can also read up on some of what I do on the [Perimeter 81 blog](https://www.perimeter81.com/blog/author/ian-paul).
+You can check out my archives at [PCWorld](https://www.pcworld.com/author/Ian-Paul/) and [How-To Geek](https://www.howtogeek.com/author/ianpaul/). If you can't get enough corporate networking and network security in your life check out my work on the [Perimeter 81 blog](https://www.perimeter81.com/blog/author/ian-paul).

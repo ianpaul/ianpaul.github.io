@@ -23,7 +23,7 @@ description: Ian Paul's online base of operations.
 
 # List of links in the navigation bar
 navbar-links:
-  Hire Me: "hireme"
+  #Hire Me: "hireme"
   #Vignettes: 
    # - What are vignettes?: "http://ianpaul.net/what-are-vignettes/"
     #- Waydon: "http://ianpaul.net/waydon"

@@ -26,7 +26,7 @@ Please note that I cannot accept short-term writing assignments from consumer te
 
 Writing has always been a big part of my life, but my career really started when I worked in public relations. During that time, I honed my skills for writing clear, precise, and factual copy that presented my clients in their best light. 
 
-Writing became a full-time profession a few short years later with my now decade-long tenure as a freelance journalist with PCWorld, and other IDG sites including TechHive, Macworld, and Greenbot. I've covered hundreds of stories about the major technology companies during this time including Amazon, Facebook, Google, and Microsoft. I've also done news analysis and reporting on tech legislation, as well as reporting on local Israeli companies such as Waze, Soluto, and Zuta Labs. I'm also a regular contributor to How-To Geek and Tech.co.
+Writing became a full-time profession a few short years later with my 14-year tenure as a freelance journalist with PCWorld, and other IDG sites including TechHive, Macworld, and Greenbot. I've covered hundreds of stories about the major technology companies during this time including Amazon, Facebook, Google, and Microsoft. I've also done news analysis and reporting on tech legislation, as well as reporting on local Israeli companies such as Waze, Soluto, and Zuta Labs. I was also a regular contributor to How-To Geek and Tech.co.
 
 Throughout 2016, I was the resident Windows expert for About.com, which later became Lifewire.com. I wrote numerous tutorials for the site to help novice Windows users take full advantage of their PCs.
 

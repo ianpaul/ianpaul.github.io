@@ -1,0 +1,230 @@
+body {
+    font-family: 'Source Sans 3', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #ffffff 0%, #f6f6f6 70%, #f0f0f0 100%);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+a:hover {
+    color: #0645AD;
+}
+
+header {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 30px 0;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+header nav ul li a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+header nav ul li a:hover {
+    color: #0645AD;
+}
+
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.intro-text h1, .intro-text h2 {
+    margin: 0;
+    font-size: 2em;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.intro-text hr,
+.intro-link:hover hr,
+.intro-link:visited hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    width: 100%;
+}
+
+.intro-link,
+.intro-link:hover,
+.intro-link:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+figure.highlight pre {
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-width: 600px;
+    margin: 1em auto;
+    font-size: 22px;
+}
+
+main {
+    padding: 0 20px;
+    flex: 1;
+}
+
+.main-content {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 960px;
+    padding 0;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+footer ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+footer ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* footer p {
+    margin-top: 10px;
+} */
+
+ul.posts {
+    list-style-type: none;
+  }
+
+.posts {
+    padding-left: 0;
+}
+
+.posts p {
+    font-size: 22px;
+    font-family: 'Roboto Slab';
+}
+
+/* .blog-post p {
+    font-size: 22px;
+    font-family: 'Roboto Slab';
+} */
+
+.blog-post-content p {
+    max-width: 600px;
+    margin: 1em auto;
+    font-size: 22px;
+    font-family: 'Roboto Slab';
+  }
+
+.blog-post-content h2,h3,h4 {
+    max-width: 600px;
+    margin: 1em auto;
+    font-size: 26px;
+    font-family: 'Robot Slab';
+
+}
+
+.blog-post-content ul li {
+    max-width: 600px;
+    margin: 1em auto;
+    font-size: 22px;
+    font-family: 'Robot Slab';
+}
+
+.posts-heading {
+    margin-top: 50px; /* Adjust this value to add more or less space */
+    text-align: left;
+}
+
+.post-title {
+    /* Add your styles for the post title here */
+    font-size: 30px;
+    font-family: 'Roboto Slab';
+    text-align: left;
+}
+
+.post-excerpt {
+    /* Add your styles for the post excerpt here */
+    font-size: 16px;
+    font-family: 'Roboto Slab';
+    text-align: left;
+}
+
+.posts li {
+    background-color: #ffffff; /* This sets the background color of the list item to white */
+    padding: 20px; /* This adds some space between the text of the post preview and the edges of the white background */
+    margin-bottom: 20px; /* This adds some space between each post preview */
+    border-radius: 0px; /* This makes the corners of the white background slightly rounded. You can adjust this value or remove this line if you prefer square corners */
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 ForkAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .fa-stack {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+  }
+  
+  .fa-twitter:before {
+    content: "\f099";
+  }
+
+  
+  
+
+  

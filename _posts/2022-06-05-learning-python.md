@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning how to program (or anything else) with iterative real-world goals
+title: Learning through iterative goals
 tags: [programming, python, rust]
 ---
 

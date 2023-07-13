@@ -145,6 +145,14 @@ ul.posts {
     font-family: 'Source Sans 3';
 }
 
+.blog-page-headline {
+    max-width: 600px;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Open Sans';
+    text-align: left;
+}
+
 .blog-post-content p {
     max-width: 600px;
     margin: 1em auto;

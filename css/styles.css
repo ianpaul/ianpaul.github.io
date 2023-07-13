@@ -37,7 +37,7 @@ header nav ul {
 header nav ul li {
     display: inline;
     margin: 0 15px;
-    font-family: 'Playfair Display', 'Open Sans', Arial, sans-serif;
+    font-family: 'Open Sans', Arial, sans-serif;
     font-weight: bold;
 }
 
@@ -132,10 +132,6 @@ footer ul li a {
     text-decoration: none;
 }
 
-/* footer p {
-    margin-top: 10px;
-} */
-
 ul.posts {
     list-style-type: none;
   }
@@ -179,7 +175,7 @@ ul.posts {
 .post-title {
     /* Add your styles for the post title here */
     font-size: 30px;
-    font-family: 'Playfair Display';
+    font-family: 'Open Sans';
     text-align: left;
 }
 

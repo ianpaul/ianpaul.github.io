@@ -2,6 +2,7 @@
 layout: post
 title: Learning through iterative goals
 tags: [programming, python, rust]
+image: path.jpg
 ---
 
 Learning my first programming language was not easy, and it took years before I could finally say I actually knew how to use a programming language. It took so long because I was stuck with this idea of how it was supposed to go. I thought you learned the language, and then it was off to building whatever you wanted. Nope. 

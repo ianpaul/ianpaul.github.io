@@ -7,6 +7,8 @@ image: path.jpg
 
 Learning my first programming language was not easy, and it took years before I could finally say I actually knew how to use a programming language. It took so long because I was stuck with this idea of how it was supposed to go. I thought you learned the language, and then it was off to building whatever you wanted. Nope. 
 
+<!--more-->
+
 It's the application of knowledge that makes programming difficult. I'd tried learning Objective-C, JavaScript, and a few other things, and I did well enough with the assignments in the book or the course. But when it came time to do something on my own like an app or a website I was completely lost. The jobs I set out for myself were just too big, and I couldn't take two steps without consulting a book or website. Eventually, I'd just give up.
 
 My attempt at Python was different. I started by contributing to [Flashbake](https://github.com/cmdln/flashbake/). I really liked the idea of the project, I used it myself, and I wanted to help out if I could. The fact that it was written in Python was really a secondary concern. It was all about doing something for this project that I cared about.
